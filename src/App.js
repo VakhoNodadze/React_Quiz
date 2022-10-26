@@ -5,13 +5,13 @@ function App() {
   return (
     <>
       <div>
-        <Counter defaultValue={0}></Counter>;
+        <Counter defaultValue={0}></Counter>
       </div>
       <div>
-        <Counter defaultValue={10}></Counter>;
+        <Counter defaultValue={10}></Counter>
       </div>
       <div>
-        <Counter defaultValue={-10}></Counter>;
+        <Counter defaultValue={-10}></Counter>
       </div>
     </>
   );
